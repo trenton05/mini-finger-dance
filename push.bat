@@ -1,1 +1,0 @@
-adb push assets.zip /storage/emulated/0/Android/obb/com.yxjh.antigravitydance/main.1160.com.yxjh.antigravitydance.obb
